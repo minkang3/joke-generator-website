@@ -1,0 +1,60 @@
+body {
+    background-color: #ECDFCC;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 80vh;
+    width: 100%;
+}
+
+h1 {
+    font-family: "Pacifico", Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    font-weight: 100;
+}
+
+p {
+    font-family: "Playpen Sans", Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    cursor: default;
+}
+
+.setup {
+    margin: 0;
+}
+
+.punchline {
+    font-weight: 700;
+    color: #ECDFCC;
+}
+
+.punchline:hover {
+    color: #0F0F0F;
+}
+
+a {
+    font-size: 2rem;
+    font-family: "Barlow Condensed";
+    color: #134B70;
+    text-transform: uppercase;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #289eed;
+    cursor: pointer;
+}
