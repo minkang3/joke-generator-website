@@ -8,6 +8,7 @@ Can generate four types of jokes: general jokes, knock-knock jokes, programming 
 ## How to use
 ### Requirements
 [Node](https://github.com/nodejs/node?tab=readme-ov-file#download)
+
 [npm](https://github.com/npm/cli?tab=readme-ov-file#direct-download)
 
 ### Steps
