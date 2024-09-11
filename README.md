@@ -1,6 +1,8 @@
 # Random Joke Generator
 A simple, barebones website that generates a random joke on request.
+
 Interfaces with the [Official Joke API](https://github.com/15Dkatz/official_joke_api?tab=readme-ov-file).
+
 Can generate four types of jokes: general jokes, knock-knock jokes, programming jokes, and dad jokes. (NOTE: there are not many knock-knock and dad jokes available).
 
 ## How to use
